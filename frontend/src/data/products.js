@@ -69,7 +69,7 @@ export const products = [
     price: 55,
     originalPrice: 70,
     weight: "1 kg",
-    image: "https://www.bing.com/images/search?view=detailV2&ccid=Kb6tqFaT&id=F580516FAFAE49D8C436F7F1024243E0BDDF7B68&thid=OIP.Kb6tqFaT-guPtk2r99jEQAHaE8&mediaurl=https%3a%2f%2fwww.agrifarming.in%2fwp-content%2fuploads%2f2019%2f10%2fComp2.jpg&exph=640&expw=960&q=bajara+photo&mode=overlay&FORM=IQFRBA&ck=4DA9C50AA7A58AD58A1DC1081A1F752F&selectedIndex=0&idpp=serp",
+    image: "https://www.bing.com/images/search?view=detailV2&ccid=Eb2cqtFu&id=9E737FB5EF8DD5B32B6350E82DAD6A2176FA3D39&thid=OIP.Eb2cqtFuFiQ4ue8vlfus0wHaFj&mediaurl=https%3a%2f%2fi.timesnowhindi.com%2fstories%2fbajara.jpg&exph=900&expw=1200&q=bajara+photo&mode=overlay&FORM=IQFRBA&ck=3D6676AA629FE0BD1D3E99FC4D7C1FA5&selectedIndex=0&idpp=serp",
     rating: 4.7,
     reviews: 67,
     description: "Pure bajra flour, perfect for winter rotis. Rich in iron and fiber. Traditional taste, modern nutrition.",
