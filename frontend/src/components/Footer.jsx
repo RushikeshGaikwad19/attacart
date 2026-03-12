@@ -14,7 +14,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-xl">G</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">GahuAtta</h3>
+                <h3 className="text-xl font-bold">AttaCart</h3>
                 <p className="text-xs text-gray-400">Fresh Chakki Products</p>
               </div>
             </div>
@@ -65,7 +65,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <FiMail className="mr-2 text-primary" />
-                <span className="text-sm">info@gahuatta.com</span>
+                <span className="text-sm">info@attacart.com</span>
               </li>
             </ul>
           </div>
