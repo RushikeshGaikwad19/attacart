@@ -40,7 +40,7 @@ const Navbar = () => {
               <span className="text-white font-bold text-xl">G</span>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-800">GahuAtta</h1>
+              <h1 className="text-2xl font-bold text-gray-800">AttaCart</h1>
               <p className="text-xs text-gray-500">Fresh Chakki Products</p>
             </div>
           </Link>
